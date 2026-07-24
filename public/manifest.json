@@ -1,20 +1,11 @@
 {
   "name": "Ultron AI",
   "short_name": "Ultron",
-  "description": "Ultron Interface",
+  "description": "An interactive 3D Ultron AI hand-tracking web application.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
-  "icons": [
-    {
-      "src": "/icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
-}
   "icons": [
     {
       "src": "/icon.svg",
@@ -23,3 +14,4 @@
       "purpose": "any maskable"
     }
   ]
+}
